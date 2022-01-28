@@ -61,7 +61,18 @@ class App extends React.Component {
 //   }
 
   render () {
-    return (<h1>Daily Inspo</h1>)
+    return (<div>
+      <h1>Daily Inspo</h1>
+      <h3>Date</h3>
+      <h3>National Day of the day</h3>
+      <h3>Random Artwork Placeholder</h3>
+      <h3>Inspiring Quote</h3>
+      <h3>Song placeholder</h3>
+      <h3>Word of the day</h3>
+      <h3>Random cat picture</h3>
+      <h3> Joke of the day</h3>
+      <h3> Tarot card of the day</h3>
+      </div>)
   }
 }
 
